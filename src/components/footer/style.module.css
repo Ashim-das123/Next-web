@@ -1,0 +1,19 @@
+.container{
+    /* background-color: aliceblue; */
+    height: 50px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.socials{
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+
+.icon{
+    opacity: 0.8;
+    cursor: pointer;
+    border-radius: 2px;
+}
